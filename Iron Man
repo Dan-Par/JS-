@@ -1,0 +1,431 @@
+var harambe = new Rect(190,60,10,170);
+harambe.fill("black");
+harambe.addTo(stage);
+
+var haramb = new Rect(180,100,10,210);
+haramb.fill("black");
+haramb.addTo(stage);
+
+var haram = new Rect(170,160,10,250);
+haram.fill("black");
+haram.addTo(stage);
+
+var hara = new Rect(200,140,10,90);
+hara.fill("black");
+hara.addTo(stage);
+
+var har = new Rect(210,220,10,10);
+har.fill("black");
+har.addTo(stage);
+
+var ha = new Rect(220,220,10,20);
+ha.fill("black");
+ha.addTo(stage);
+
+var h = new Rect(230,230,40,10);
+h.fill("black");
+h.addTo(stage);
+
+var he = new Rect(270,230,10,20);
+he.fill("black");
+he.addTo(stage);
+
+var hem = new Rect(280,230,10,30);
+hem.fill("black");
+hem.addTo(stage);
+
+var hema = new Rect(220,260,60,10);
+hema.fill("black");
+hema.addTo(stage);
+
+var heman = new Rect(200,250,20,10);
+heman.fill("black");
+heman.addTo(stage);
+
+var eman = new Rect(190,240,10,20);
+eman.fill("black");
+eman.addTo(stage);
+
+var man = new Rect(180,310,10,240);
+man.fill("black");
+man.addTo(stage);
+
+var an = new Rect(190,320,10,120);
+an.fill("black");
+an.addTo(stage);
+
+var hara = new Rect(200,360,10,90);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(200,320,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(210,330,10,20);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(220,350,10,20);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(230,360,10,30);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(240,390,10,30);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(250,420,10,20);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(260,410,10,40);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(270,420,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(210,380,10,70);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(220,390,10,60);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(230,420,10,50);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(240,430,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(240,460,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(230,360,10,30);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(290,240,70,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(360,230,10,30);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(370,230,10,20);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(380,230,10,20);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(370,260,70,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(390,230,30,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(420,220,20,20);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(440,220,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(450,220,10,40);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(440,260,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(200,50,10,20);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(230,360,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(210,40,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(220,30,20,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(240,20,40,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(280,10,100,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(260,30,20,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(360,30,10,20);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(280,50,90,20);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(280,70,10,60);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(360,70,10,60);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(290,130,70,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(280,40,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(370,20,50,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(390,30,50,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(440,40,20,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(460,50,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(470,60,10,180);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(480,140,10,210);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(470,350,10,60);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(460,410,10,40);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(450,450,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(440,460,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(430,470,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(420,480,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(410,490,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(280,410,80,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(360,420,20,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(380,430,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(420,430,10,30);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(410,390,10,40);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(420,370,10,40);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(430,360,10,30);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(440,340,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(400,460,20,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(380,470,20,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(370,470,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(270,460,100,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(260,470,10,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(250,470,10,80);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(240,480,10,70);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(230,480,10,70);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(220,480,10,70);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(210,480,10,70);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(200,480,10,70);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(190,480,10,70);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(180,480,10,70);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(170,480,10,70);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(160,480,10,70);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(150,480,10,70);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(140,480,10,70);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(130,480,10,70);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(120,480,10,70);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(110,480,10,70);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(100,480,10,70);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(230,470,-160,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(220,460,-140,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(200,450,-90,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(180,440,-40,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(90,480,10,60);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(80,480,10,50);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(70,480,10,50);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(60,480,10,50);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(50,490,10,40);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(40,500,10,30);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(30,510,10,30);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(260,500,130,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(260,490,110,10);
+hara.fill("black");
+hara.addTo(stage);
+
+var hara = new Rect(430,480,10,30);
+hara.fill("black");
+hara.addTo(stage);
